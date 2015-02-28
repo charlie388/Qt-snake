@@ -1,7 +1,0 @@
-1. How to build Qt project ?
-We can Double click the "snake.pro" or open the project through the "Qt Creator" menu command.
-
-Old method is below. It now can't work. The test version of Qt is Qt 5.1
-* qmake -project
-* qmake 
-* make
